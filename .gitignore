@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Environment files
+.env
+*.log
+
+# VS Code
+.vscode/
+
+# Django static and media (optional)
+staticfiles/
+media/
